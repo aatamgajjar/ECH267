@@ -1,2 +1,2 @@
-# ECH267
-Contains solutions to assignments and project related to the coursework
+# ECH267- Advanced Process Control
+Contains solutions to assignments and a project related to process control.
