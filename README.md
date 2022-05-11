@@ -12,4 +12,4 @@ In this project, I considered nonlinear systems with time-varying uncertain vari
 
 In particular, I examined the descriptive example given in Control of nonlinear and hybrid process systems: Designs for uncertainty, constraints and time-delays (Christofides & El-Farra, 2005).
 
-### Related Topics: Feedback Control, Scipy, Mathematical Modeling, Numerical Methads to solve ODEs, etc
+### Related Topics: Feedback Control, Scipy, Mathematical Modeling, Numerical Methods to solve ODEs, etc
