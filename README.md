@@ -11,3 +11,5 @@ This course is an introduction to advanced process control, with the main focus 
 In this project, I considered nonlinear systems with time-varying uncertain variable and present robust controller design that enforce an arbitary degree of attentuation of the effect of uncertainty on output of closed loop system.
 
 In particular, I examined the descriptive example given in Control of nonlinear and hybrid process systems: Designs for uncertainty, constraints and time-delays (Christofides & El-Farra, 2005).
+
+Related Topics: Feedback Control, Scipy, Mathematical Modeling, Numerical Methads to solve ODEs, etc
